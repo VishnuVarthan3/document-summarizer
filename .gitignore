@@ -1,0 +1,7 @@
+# Backend ignores
+/backend/LaMini-Flan-T5-248M/
+/backend/__pycache__/
+/backend/data/
+
+# Frontend ignores
+/frontend/node_modules/
