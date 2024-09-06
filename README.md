@@ -1,4 +1,4 @@
-# DocumentationSummarization
+# Document Summarization
 
 ## Project Overview
 This project involves developing a web-based application for automatic summarization of financial documents using two advanced Natural Language Processing (NLP) models: Lamini Flan T5 and BERT. The application is designed to assist users in quickly extracting key information from lengthy financial documents, improving efficiency and comprehension. 
